@@ -1,0 +1,26 @@
+.Menu {
+  background: #D5B0AC;
+  color: #402E2A;
+  font-weight: bold;
+  text-align: center;
+}
+.Menu span {
+  display: inline-block;
+  width: 100px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+.Menu span:hover {
+  background: #9CD08F;
+  color:#FFFFFF;
+  cursor: pointer;
+}
+	/*styling vertical menu*/
+.vertical {
+  margin-top: 10px;
+  width: 100px;
+}
+.vertical span{
+  height:17px;
+  border-bottom: 1px solid #fff5f5;
+}
